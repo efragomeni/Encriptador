@@ -14,7 +14,7 @@ Aquí se puede ver que funciona la validación, dando un mensaje de error en cas
 ![Captura de pantalla (242)](https://user-images.githubusercontent.com/113386725/213605912-5bfbd1e9-1913-41ab-92de-4cb54aa7fc1b.png)
 
 
--La segunda version omite la validación y en caso de que haya mayusculas o acentuaciones las encripta igual. Se puede ver en: 
+-La segunda version omite la validación y en caso de que haya mayusculas o acentuaciones las encripta igual. Se puede ver en: https://efragomeni.github.io/Encriptador_2.0/
 
 ![Captura de pantalla (231)](https://user-images.githubusercontent.com/113386725/213605292-52116a9f-3239-457f-8fda-f3d57ecffb92.png)
 ![Captura de pantalla (235)](https://user-images.githubusercontent.com/113386725/213605340-288f54c9-56fd-4ca4-a62c-e98f49dc5749.png)
